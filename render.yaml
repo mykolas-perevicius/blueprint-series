@@ -1,0 +1,25 @@
+services:
+  # Backend API
+  - type: web
+    name: blueprint-api
+    runtime: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: NODE_ENV
+        value: production
+
+  # Frontend
+  - type: web
+    name: blueprint-frontend
+    runtime: node
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    envVars:
+      - key: NEXT_PUBLIC_API_URL
+        fromService:
+          name: blueprint-api
+          type: web
+          property: url

@@ -1,0 +1,100 @@
+{
+  "event": {
+    "title": "The BluePrint Series: Design & Technology with Maya Johnson",
+    "date": "JUNE 22, 2025",
+    "location": "THE STANDARD, LOS ANGELES",
+    "description": "Exploring the intersection of design and emerging technology"
+  },
+  "introduction": {
+    "label": "INTRODUCTION OF THIS EVENT",
+    "text": "Discover the future of design with Maya Johnson, pioneering technologist and creative director. Maya will explore how AI, AR, and emerging technologies are reshaping the creative landscape, and share insights from her work leading design innovation at major tech companies."
+  },
+  "agenda": {
+    "days": [
+      { "id": "day-one", "label": "DAY ONE" },
+      { "id": "day-two", "label": "DAY TWO" }
+    ],
+    "items": [
+      {
+        "time": "9:00 AM - 9:30 AM",
+        "title": "REGISTRATION & COFFEE",
+        "description": "Check in and enjoy artisanal coffee while networking with fellow attendees.",
+        "location": "LOBBY"
+      },
+      {
+        "time": "9:30 AM - 10:30 AM",
+        "title": "KEYNOTE: THE FUTURE OF DESIGN",
+        "description": "Maya Johnson presents her vision for how technology will transform creative work over the next decade.",
+        "location": "MAIN STAGE"
+      },
+      {
+        "time": "10:45 AM - 12:00 PM",
+        "title": "INTERACTIVE WORKSHOP",
+        "description": "Hands-on session exploring AI-powered design tools and workflows.",
+        "location": "WORKSHOP ROOM A"
+      },
+      {
+        "time": "12:00 PM - 1:30 PM",
+        "title": "LUNCH & NETWORKING",
+        "description": "Farm-to-table lunch with dedicated networking time.",
+        "location": "ROOFTOP GARDEN"
+      },
+      {
+        "time": "1:30 PM - 2:30 PM",
+        "title": "PANEL: ETHICS IN AI DESIGN",
+        "description": "Industry leaders discuss responsible AI implementation in creative industries.",
+        "location": "MAIN STAGE"
+      }
+    ]
+  },
+  "speakers": [
+    {
+      "id": "maya-johnson",
+      "name": "Maya Johnson",
+      "title": "CREATIVE DIRECTOR",
+      "image": "/images/speakers/speaker-2.png"
+    },
+    {
+      "id": "alex-chen",
+      "name": "Alex Chen",
+      "title": "AI RESEARCHER",
+      "image": "/images/speakers/speaker-1.png"
+    },
+    {
+      "id": "jordan-kim",
+      "name": "Jordan Kim",
+      "title": "PRODUCT LEAD",
+      "image": "/images/speakers/speaker-3.png"
+    }
+  ],
+  "eventDetail": {
+    "label": "ABOUT THIS EVENT",
+    "text": "This special edition of The Blueprint Series focuses on the rapidly evolving intersection of design and technology. Attendees will gain practical insights into incorporating AI tools into their workflow while maintaining creative authenticity and ethical standards."
+  },
+  "previousEvents": {
+    "label": "OUR PAST EVENTS",
+    "images": [
+      "/images/events/past-event-2.png",
+      "/images/events/past-event-3.png",
+      "/images/events/past-event-1.png"
+    ]
+  },
+  "faq": [
+    {
+      "question": "DO I NEED TO BRING A LAPTOP?",
+      "answer": "Yes, we recommend bringing a laptop for the interactive workshop session. Tablets will also work for most activities."
+    },
+    {
+      "question": "IS PARKING AVAILABLE?",
+      "answer": "Validated parking is available in the building garage. Please bring your ticket for validation at the registration desk."
+    },
+    {
+      "question": "WILL SESSIONS BE RECORDED?",
+      "answer": "Yes, all main stage sessions will be recorded and made available to registered attendees within 48 hours."
+    },
+    {
+      "question": "IS THERE A VIRTUAL ATTENDANCE OPTION?",
+      "answer": "Yes, we offer a virtual ticket option with live streaming access and interactive Q&A participation."
+    }
+  ]
+}

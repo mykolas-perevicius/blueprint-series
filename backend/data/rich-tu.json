@@ -1,0 +1,95 @@
+{
+  "event": {
+    "title": "The BluePrint Series: A Fireside Chat with Rich Tu",
+    "date": "MAY 14, 2025",
+    "location": "SOHO HOUSE, NEW YORK",
+    "description": "An exclusive evening with award-winning designer Rich Tu"
+  },
+  "introduction": {
+    "label": "INTRODUCTION OF THIS EVENT",
+    "text": "Join us for an exclusive evening with Rich Tu, the award-winning designer behind the official NY/NJ 2026 FIFA World Cup identity. In this intimate fireside chat, Rich will share his creative journey, from his early days in design to becoming one of the most influential visual storytellers of our generation."
+  },
+  "agenda": {
+    "days": [
+      { "id": "day-one", "label": "DAY ONE" },
+      { "id": "day-two", "label": "DAY TWO" },
+      { "id": "day-three", "label": "DAY THREE" }
+    ],
+    "items": [
+      {
+        "time": "10:30 AM - 11:00 AM",
+        "title": "WELCOME AND OPENING",
+        "description": "Join us for an exclusive evening with Rich Tu, the award-winning designer behind the official NY/NJ 2026 FIFA World Cup identity.",
+        "location": "GROUND FLOOR"
+      },
+      {
+        "time": "11:00 AM - 12:00 PM",
+        "title": "FIRESIDE CHAT",
+        "description": "Rich Tu shares his creative journey and the story behind designing the World Cup identity.",
+        "location": "MAIN HALL"
+      },
+      {
+        "time": "12:00 PM - 1:00 PM",
+        "title": "NETWORKING LUNCH",
+        "description": "Connect with fellow creatives and industry professionals over a catered lunch.",
+        "location": "ROOFTOP TERRACE"
+      },
+      {
+        "time": "1:00 PM - 2:30 PM",
+        "title": "Q&A SESSION",
+        "description": "Open floor discussion where attendees can ask Rich about his work, process, and insights.",
+        "location": "MAIN HALL"
+      }
+    ]
+  },
+  "speakers": [
+    {
+      "id": "rich-tu",
+      "name": "Rich Tu",
+      "title": "ARTIST",
+      "image": "/images/speakers/speaker-1.png"
+    },
+    {
+      "id": "love-loney",
+      "name": "Love Loney",
+      "title": "WRITER",
+      "image": "/images/speakers/speaker-2.png"
+    },
+    {
+      "id": "milan-chaney",
+      "name": "Milan Chaney",
+      "title": "MODERATOR",
+      "image": "/images/speakers/speaker-3.png"
+    }
+  ],
+  "eventDetail": {
+    "label": "INTRODUCTION OF THIS EVENT",
+    "text": "Presented as part of The Gradient's Blueprint Series, this event brings together designers, artists, and creative professionals for an evening of inspiration and connection. Rich Tu's work spans brand identity, illustration, and cultural commentary, making him one of the most sought-after voices in contemporary design."
+  },
+  "previousEvents": {
+    "label": "OUR PAST EVENTS",
+    "images": [
+      "/images/events/past-event-1.png",
+      "/images/events/past-event-2.png",
+      "/images/events/past-event-3.png"
+    ]
+  },
+  "faq": [
+    {
+      "question": "WHAT IS THE SCHEDULE FOR THE EVENT?",
+      "answer": "You can view the full event schedule, including keynote speakers, workshops, and panel discussions, on the event page under the \"Agenda\" section. The event runs from 10:30 AM to 2:30 PM."
+    },
+    {
+      "question": "IS THERE A DRESS CODE?",
+      "answer": "Smart casual attire is recommended. Please dress comfortably as you'll be networking and moving between sessions."
+    },
+    {
+      "question": "WILL FOOD BE PROVIDED?",
+      "answer": "Yes, a catered lunch will be provided during the networking session. Please indicate any dietary restrictions when registering."
+    },
+    {
+      "question": "CAN I GET A REFUND IF I CAN'T ATTEND?",
+      "answer": "Tickets are refundable up to 7 days before the event. Please contact our support team for assistance with refunds."
+    }
+  ]
+}
